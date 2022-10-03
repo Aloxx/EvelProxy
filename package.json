@@ -1,0 +1,13 @@
+{
+  "name": "evelproxy",
+  "version": "1.0",
+  "description": "EvelProxy - Secure Multi Server Core for servers that use WebSocket",
+  "type": "module",
+  "main": "proxy.js",
+  "scripts": {
+    "dev": "nodemon proxy.js"
+  },
+  "keywords": [],
+  "author": "Kserox",
+  "license": "ISC"
+}
