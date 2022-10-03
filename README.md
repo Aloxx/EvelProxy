@@ -2,6 +2,7 @@
 WebSocket based Advanced Java-Script multiple-server solution
 
 **Current version: 0.1**
+
 **Author: Aloxx**
 
 # Why i need it?
